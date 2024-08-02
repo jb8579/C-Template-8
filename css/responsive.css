@@ -36,6 +36,11 @@
     /* -------------------
         List Start
     ---------------------- */
+    .item-rat.item-rat-top {
+        position: relative;
+        top: 4px !important;
+    }
+
     .list-main {
         top: -230px !important;
     }
@@ -103,6 +108,10 @@
     .arrow-ribbon {
         padding: 3px 0px 3px 15px !important;
         width: 110px !important;
+    }
+
+    img.logo.logo-top-area {
+        margin-top: -20px !important;
     }
     /* ------------------
         List Start
@@ -500,6 +509,12 @@
         padding: 10px 0px;
         letter-spacing: 0px;
         line-height: 30px;
+    }
+
+    
+    .item-rat.item-rat-top {
+        position: relative;
+        top: -10px !important;
     }
     /* ------------------------------
         List Description End
@@ -959,7 +974,7 @@
 
     .item-rat.item-rat-top {
         position: relative;
-        top: 6px;
+        top: 6px !important;
     }
     /* -------------------------
         Item End
